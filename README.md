@@ -20,9 +20,7 @@ A simple ruby program which find out any website ip address from internet.
 ### Basic Concept ###
 
 require 'resolv'
-
 resolve=Resolv.getaddress "www.google.com"
-
 puts resolve
 
 
