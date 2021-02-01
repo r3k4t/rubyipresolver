@@ -1,4 +1,4 @@
-[![python](https://img.shields.io/badge/Program-Ruby-purple.svg)](https://www.ruby-lang.org/en/downloads/releases/)
+[![ruby](https://img.shields.io/badge/Program-Ruby-purple.svg)](https://www.ruby-lang.org/en/downloads/releases/)
 [![OS](https://img.shields.io/badge/Tested%20On-Linux-purple.svg)](https://en.wikipedia.org/wiki/Linux)
 
 # Ruby IP Resolver
